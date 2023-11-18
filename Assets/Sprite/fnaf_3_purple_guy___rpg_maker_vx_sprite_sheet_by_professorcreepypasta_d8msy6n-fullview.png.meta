@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: 5672869ce6aa6d4449db4567f129792c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4237848765262919828
+    second: fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_0
+  - first:
+      213: 7214609924749590734
+    second: fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_1
+  - first:
+      213: 2810814188213218470
+    second: fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_2
+  - first:
+      213: -745377942229190753
+    second: fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_3
+  - first:
+      213: -3082867104089896215
+    second: fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_4
+  - first:
+      213: -3717816206513007303
+    second: fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_5
+  - first:
+      213: -5465246782808797627
+    second: fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_6
+  - first:
+      213: -2199549594593717603
+    second: fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_7
+  - first:
+      213: 6188026036125194950
+    second: fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_8
+  - first:
+      213: -4630515676832395437
+    second: fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_9
+  - first:
+      213: -4364496578715285042
+    second: fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_10
+  - first:
+      213: -4013499897025452787
+    second: fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 699
+        width: 99
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d3eb7187071f44e9fc5fb3a36d63c1
+      internalID: 688464612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 697
+        width: 99
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5a0d07e64715b4d85aa2dad4f4cc0a
+      internalID: -178339138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_2
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 699
+        width: 99
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fd168d756e7474bb74489ddfd7982c
+      internalID: -393361179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 469
+        width: 117
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4bc211a481be1448c86b5e3c7438c4
+      internalID: -2134345948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 467
+        width: 115
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad47786c7db720048b2c663d2d3803b8
+      internalID: 579621815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_5
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 469
+        width: 117
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808c7accc394f3a4c813a241e41d894c
+      internalID: 2136426854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 237
+        width: 115
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ae538bb61fca44db1cd495f5736282
+      internalID: 954191564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_7
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 239
+        width: 117
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fb01a081b4ff1408795bf34d5e1511
+      internalID: 1488026227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_8
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 237
+        width: 115
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d245f441086830343aeb142e281537f1
+      internalID: 1570192156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 9
+        width: 99
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6420a01264d1d10468cebd857cb16980
+      internalID: -1726961391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_10
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 7
+        width: 99
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f09a4f9332b6b24984c028f9ab505db
+      internalID: 1579594906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_11
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 9
+        width: 99
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e472c06a474f8249833878376dd7570
+      internalID: -1818391906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0be79e07c8f3f11498c4183b1d9db7cd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_0: 688464612
+      fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_1: -178339138
+      fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_10: 1579594906
+      fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_11: -1818391906
+      fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_2: -393361179
+      fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_3: -2134345948
+      fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_4: 579621815
+      fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_5: 2136426854
+      fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_6: 954191564
+      fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_7: 1488026227
+      fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_8: 1570192156
+      fnaf_3_purple_guy___rpg_maker_vx_sprite_sheet_by_professorcreepypasta_d8msy6n-fullview_9: -1726961391
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
